@@ -2,3 +2,4 @@
 console.log('AWAIS')
 console.log('AWAIS 2')
 // YHI
+alert("Hi")
