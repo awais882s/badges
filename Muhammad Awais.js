@@ -1,7 +1,5 @@
 // I am Muhammad Awais Software Engineer
 console.log('AWAIS')
 console.log('AWAIS 2')
-// YHI
 alert("Hi")
-
-// yutuyt
+alert("HI From Muhammad Bilal")
