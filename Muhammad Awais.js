@@ -4,4 +4,4 @@ console.log('AWAIS 2')
 // YHI
 alert("Hi")
 
-// yutuyt
+// yutuyt    b,nm,mbn,mn
